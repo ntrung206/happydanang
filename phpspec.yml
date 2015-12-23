@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: happydanang
+        psr4_prefix: happydanang
+        src_path: app
